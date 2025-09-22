@@ -4,7 +4,7 @@ Olá, eu sou Rafael Soares de Souza 👋
 <a href="mailto:rlcitriny@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-Desenvolvedor Full Stack com mais de 6 anos de experiência na concepção e implementação de sistemas, desde C# com Entity SQL até arquiteturas de microsserviços distribuídas com Java e .NET Core. Como profissional neurodivergente (TEA Nível 1), utilizo minha atenção aos detalhes e meu pensamento estruturado para construir soluções de alta qualidade, otimizar processos e mentorar equipes.
+Desenvolvedor Full Stack com mais de 6 anos de experiência na concepção e implementação de sistemas, desde C# com Entity SQL até arquiteturas de microsserviços distribuídas com Java e .NET Core, utilizo minha atenção aos detalhes e meu pensamento estruturado para construir soluções de alta qualidade, otimizar processos e mentorar equipes.
 
 Atualmente, estou focado em aplicar minhas habilidades para criar soluções de automação e me preparando para novos desafios na área de tecnologia do setor público.
 
@@ -13,7 +13,7 @@ Atualmente, estou focado em aplicar minhas habilidades para criar soluções de 
 
 🌱 Aprofundando meus estudos para concursos na área de Analista de TI (Judiciário), com foco em Arquitetura de Sistemas, Segurança da Informação e Redes.
 
-✨ Desenvolvendo um projeto pessoal de SaaS: 🐻 Bear Hub, uma plataforma de CRM e automação para agências de turismo.
+✨ Desenvolvendo um projeto pessoal de SaaS.
 
 💬 Minha paixão é resolver problemas complexos, seja desenvolvendo algoritmos para cálculos de engenharia em Python ou otimizando a comunicação entre serviços com Kafka.
 
