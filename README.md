@@ -62,4 +62,6 @@ Atualmente, estou focado em aplicar minhas habilidades para criar soluções de 
 <p align="center">
 <a href="https://github.com/RafaelCitriny">
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRafaelCitriny%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRafaelCitriny%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddracula"/>
+</a>
+</p>
